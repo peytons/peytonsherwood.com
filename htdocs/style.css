@@ -1,0 +1,25 @@
+body, div, h1, h2, h3 {
+	margin: 0; padding: 0; border: 0;
+}
+body {
+	background-image:url('epsBackgroundTexture.png');
+	color: #FFFFFF;
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+#content {
+	position: absolute;
+	left:50%;
+	width: 400px;
+	margin-left:-200px;
+	padding-bottom: 80px;
+}
+a:link{text-decoration:none;color:#a6eb8d;}
+a:visited{text-decoration:none;color:#a6eb8d;}
+a:hover{text-decoration:underline;
+color:#a6eb8d;}
+h1 {
+line-height: 1.8;
+}
+p {
+line-height: 120%;
+}
